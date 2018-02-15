@@ -1,4 +1,7 @@
-*/target/*
+*target/*
 *.log
+*.settings
+*.classpath
+.springbeans
 *.logs
 *.class
